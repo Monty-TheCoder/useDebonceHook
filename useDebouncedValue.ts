@@ -1,4 +1,5 @@
-// This is basically used for adding debounce value 
+// This is basically used for adding debounce value
+// This can be used when ever we want to do api call after a some time of on change
 // Example - basically used do api call on search
 
 import { useEffect, useState } from "react";
